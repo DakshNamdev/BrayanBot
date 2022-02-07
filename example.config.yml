@@ -1,0 +1,13 @@
+Settings:
+    Token: "BOT-TOKEN"
+    Prefix: "-"
+    ServerID: "YOUR-SERVER-ID"
+    Storage: "database.db"
+    DevMode: false # This option will reset every addon configs.
+
+Embeds:
+    Branding: "Brayan Bot"
+    Color: "2f3136"
+
+Misc:
+    Version: "v1.0.0"

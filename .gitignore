@@ -1,0 +1,28 @@
+# IDE
+.history/
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# NPM & Yarn
+node_modules/
+yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Extra Files
+disposal
+config.yml
+Addons/
+Addon_Configs/
+*.db
+*.sqlite
+*.bak
+config.json
